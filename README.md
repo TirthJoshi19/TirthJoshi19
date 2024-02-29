@@ -1,6 +1,10 @@
- Hi, I’m @TirthJoshi19
+ Hi, I’m Tirth Joshi
+
  I’m interested in Web Development
+ 
  I’m currently learning Js
+ 
+ 
  How to reach me - tirthjoshi1902@gmail.com
 
 
