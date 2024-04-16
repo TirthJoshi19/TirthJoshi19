@@ -5,7 +5,7 @@
  I’m currently learning Js
  
  
- How to reach me - tirthjoshi1902@gmail.com
+ How to reach me - 
 
 
 <!---
