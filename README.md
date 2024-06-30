@@ -2,10 +2,9 @@
 
  I’m interested in Web Development
  
- I’m currently learning Js
- 
- 
- How to reach me - 
+ I have finished The Odin Project's JS and I am halfway through the react course.
+
+ I have a few projects uploaded on this account, have a look at my code
 
 
 <!---
